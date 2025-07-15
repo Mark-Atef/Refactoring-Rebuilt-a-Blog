@@ -70,12 +70,6 @@ My Refactoring Code/
    - `index.html` should be outside the `css` and `js` folders.
    - Make sure the CSS and JS files are correctly linked in the HTML (already done).
 
-## 📌 Next Steps
-
-- Save this file as `README.md` in the root of your project.
-- If you're uploading this project to GitHub, the README will display automatically on the repository homepage.
-- For submission, you can optionally convert this Markdown file to **PDF** or **DOCX** using any Markdown editor or converter.
-
 ---
 
 **Thank you for reviewing my project!**  
