@@ -59,7 +59,8 @@ My Refactoring Code/
 
 1. **Download or Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
+   git clone https://github.com/Mark-Atef/Refactoring-Rebuilt-a-Blog.git
+   ```
 
 2. **Open the Project**
    - Navigate to the project folder.
