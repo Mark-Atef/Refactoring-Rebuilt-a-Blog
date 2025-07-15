@@ -39,16 +39,19 @@ This project is a refactored version of a simple blog website. It has been rebui
 
 ## 📁 Project Structure
 
+```
 My Refactoring Code/
 │
 ├── css/
-│ └── styles.css # Main external stylesheet with CSS variables
+│   └── styles.css       # Main external stylesheet with CSS variables
 │
 ├── js/
-│ └── script.js # JavaScript for 'Back to Top' button functionality
+│   └── script.js        # JavaScript for 'Back to Top' button functionality
 │
-├── index.html # Main HTML file (the blog page)
-└── README.md # This documentation file
+├── index.html           # Main HTML file (the blog page)
+└── README.md            # This documentation file
+```
+
 
 ---
 
